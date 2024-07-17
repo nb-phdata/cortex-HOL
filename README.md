@@ -16,7 +16,7 @@ Using Snowflake to access phData - Snowflake Cortex HOL:
 6. Navigate to the HOL in the GUI and select the file
 7. Select your desired Database, Schema, and Warehouse
 
-Committing Code to GIT:
+Using Snowflake to commit code to GIT:
 
 1. Create a Personal Access Token in your Github repository.
    Scroll down to "Creating a fine-grained personal access token" here:
